@@ -1,4 +1,4 @@
 # Flower-Tutorial-Federated-Learning
 
-**Before moving towards implementing Flower for FL, let us install some dependencies as well as the Flower Framework**
+**The tutorial elegantly illustrates a comprehensive and meticulous approach to installing the Flower Framework, showcasing a step-by-step procedure that encompasses every aspect and detail.**
 
